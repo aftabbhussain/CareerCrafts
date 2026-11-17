@@ -29,13 +29,13 @@ This platform re-architects career planning into a gamified RPG experience combi
 
 | Student Name | Department | Roll Number | Primary Role / Contribution |
 | :--- | :--- | :--- | :--- |
-| **Aftab Hussain** | CSE | *(Roll No. to be confirmed)* | Team Lead & Frontend Architect |
-| **Mahadev Keshari** | CSE | 240101019 | UI/UX Design & Module Components |
-| **Raghav Agarwal** | CSE | 240101066 | Gamification Engine & XP Progression |
-| **Animesh Jain** | CSE | 240101014 | Career Roadmaps & Skill Taxonomy |
-| **Ajeet Singh** | CSE | 240101254 | System Testing & Feature Integration |
-| **Satya Narayan Verma**| CSE | 240101214 | Student Research & Scenario Analytics |
-| **Priya Sharma** | CSE | 240101139 | UI Styling & Documentation |
+| **Aftab Hussain** | CSE | 240101019 | Team Lead & Frontend Architect |
+| **Mahadev Keshari** | CSE | 240101066 | UI/UX Design & Module Components |
+| **Raghav Agarwal** | CSE | 240101014 | Gamification Engine & XP Progression |
+| **Animesh Jain** | CSE | 240101254 | Career Roadmaps & Skill Taxonomy |
+| **Ajeet Singh** | CSE | 240101214 | System Testing & Feature Integration |
+| **Satya Narayan Verma**| CSE | 240101139 | Student Research & Scenario Analytics |
+
 
 *(Note: Team records can also be viewed and edited in real time via the in-app "SAI-I Team" modal for presentation flexibility).*
 
